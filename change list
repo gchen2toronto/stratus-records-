@@ -60,6 +60,17 @@ page 30 directory
 p30_street name auto complete
 p30_cty  auto complete
 
+page 600  User Manual 
+Shard Components >> List Details  >> User Manual Index 
+removed &p_inline=NO'  in each List Entry
+
+SNow_PDFfile package has error msg
+
+grant osppa_java_procedure to SSRs in ospa
+GRANT EXECUTE ON osppa_java_procedure TO ssrs;
+
+need grant execute  Utl_file for ssrs 
+
 
 
 
