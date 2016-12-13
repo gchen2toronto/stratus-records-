@@ -1,0 +1,16 @@
+application 116 
+page 101  comment process Setup Application Info  sql code 
+ 
+ page 1 change autocompletet parts 1 to text field with auto complete ,
+still working for remove java script
+
+p1 region client search , remove javascript in region footer 
+
+main page template remove
+<Script type="text/javascript" src="#WORKSPACE_IMAGES#TextAutoComplete.js"></SCRIPT>  
+
+delete application processes : getSearchList
+
+delete Shared Components > Application Items : TF_SL_COLUMN , TF_SL_SEARCH , TF_SL_TABLE
+
+page 1 change go button css setting
