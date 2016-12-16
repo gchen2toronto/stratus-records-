@@ -1,0 +1,54 @@
+application ID 107
+page1 
+
+remove  <script type="text/javascript" src="#WORKSPACE_IMAGES#textfield_autofilter.js"></script> in the main page template in  the header
+change p1_streetname auto complete
+
+remove share components-> application Processes -> getSearchList
+
+remove application Items 
+
+change p1_ go button css add #IMAGE_PREFIX#
+
+page 14 
+p14_streetname autocomplete
+P14_OSTREETNAME autocomplete
+remove javascript in the Property Information region
+remove javascript in the owner  Information region
+
+page 11
+p11_streetname autocomplete
+P11_OSTREETNAME autocomplete
+remove javascript in the Property Information region
+remove javascript in the owner  Information region
+
+
+page 16
+P16_FSTREETNAME autocomplete
+
+remove javascript in Encroachment Information region
+
+page300
+change go button css 
+
+page 200
+change go button css 
+
+page 501
+change go button css 
+
+page 510
+change go button css 
+comments button 
+
+page 512
+change go button css 
+
+page 530
+change go button css 
+
+
+
+
+
+
