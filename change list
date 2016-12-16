@@ -78,7 +78,10 @@ recompiled trigers ,procedures , functions and packages.
 need grant read write to Directory Object 
 SELECT owner, directory_name, directory_path FROM all_directories
 
-SSRS_BATCHPRINT   
+SSRS_BATCHPRINT    need investigate it later
+
+
+
 
 
 
