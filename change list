@@ -80,6 +80,8 @@ SELECT owner, directory_name, directory_path FROM all_directories
 
 SSRS_BATCHPRINT    need investigate it later
 
+require DBA creat Directory Object
+
 
 
 
