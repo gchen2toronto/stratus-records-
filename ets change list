@@ -50,6 +50,39 @@ change go button css
 page 600
 chage list entry  value
 
+page 7
+remove  register("P7_BOXNOTOASSIGN", "ARCHIVEBOXES", "ARCHIVEBOXNO", "black", "red");  autocomplete
+P7_BOXNOTOASSIGN change to auto complete
+
+page 5
+change go css
+
+page 2
+change go css
+
+page 18
+   register("P18_STREETNAME", "properties", "STreetname", "black", "black");
+     register("P18_OSTREETNAME", "properties", "STreetname", "black", "black");
+P18_STREETNAME change autocomplete
+P18_OSTREETNAME change autocomplete
+
+page 10 
+wwv_flow_mail not working
+page 709 
+wwv_flow_mail not working
+
+page 323 
+wwv_flow_mail not working
+
+page 311  
+change go css
+
+
+
+
+
+
+
 
 
 
